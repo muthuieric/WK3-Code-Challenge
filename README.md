@@ -4,9 +4,9 @@ Flatdango is a web application that allows users to purchase movie tickets from 
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Project Setup](#Project Setup)
+- [Project Setup](#project-setup)
 - [Usage](#usage)
-- [Author & License](#Author & License)
+- [Author & Licence](#author--license)
 
 ## Project Description
 
